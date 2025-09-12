@@ -1,0 +1,249 @@
+index,github_link,issue_link,reproduce,fix_link,
+1,https://github.com/rignaneseleo/SlimSocial-for-Facebook,https://github.com/rignaneseleo/SlimSocial-for-Facebook/issues/57,"download the app from fdroid store
+Turn off data connections
+launch app and allow permissions if prompted
+Click on the three dots at the top right corner of the display and the app crashes. However, the dialog box that allows for the selection of a browser pops up when the data connection is turned on.",https://github.com/rignaneseleo/SlimSocial-for-Facebook/pull/70/files,
+2,https://github.com/libre-tube/LibreTube,https://github.com/libre-tube/LibreTube/issues/7023,"-Have Bluetooth enabled and connected
+-Load into LibreTube
+-Play a video",https://github.com/libre-tube/LibreTube/pull/7530/files,
+3,https://github.com/libre-tube/LibreTube,https://github.com/libre-tube/LibreTube/issues/6967,"Open video
+Then click the audio button.
+Boom, Crash",https://github.com/libre-tube/LibreTube/pull/6968/files,
+4,https://github.com/libre-tube/LibreTube,https://github.com/libre-tube/LibreTube/issues/6825,"Play the downloaded video online
+""Local version of video"" page has opened
+Instead of No and Yes, click the back button. Do not close the player
+Then play Another VİDEO or switch to the AUDİO PLAYER
+Error",https://github.com/libre-tube/LibreTube/pull/6843/files,
+5,https://github.com/libre-tube/LibreTube,https://github.com/libre-tube/LibreTube/issues/6776,"Play the video. You can no longer play audio or video. Player is frozen. Even if you close the existing player, it doesn't fix it
+LATER Error when pressing Play and Close button in Mini-Player. Or click again on the video that doesn't load",https://github.com/libre-tube/LibreTube/pull/6784/files,
+6,https://github.com/duckduckgo/Android,https://github.com/duckduckgo/Android/issues/5499,"Open the app
+More Options
+Settings
+Autofill Dev Settings
+Launch Google Passwords (import flow)",https://github.com/duckduckgo/Android/pull/5527/files,
+7,https://github.com/tutao/tutanota,https://github.com/tutao/tutanota/issues/4836,"Create a premium account that can log in offline and save the creds on ios app
+log out
+delete the session from another device
+try to use the credentials to log in on the app
+app goes to inbox, then crashes",https://github.com/tutao/tutanota/pull/4934/files,
+8,https://github.com/element-hq/element-x-android,https://github.com/element-hq/element-x-android/issues/3772,"Send a very long message
+Attempt to reply to it",https://github.com/element-hq/element-x-android/pull/4491/files,
+9,https://github.com/breezy-weather/breezy-weather,https://github.com/breezy-weather/breezy-weather/issues/126,"Install release on Github
+open the app
+got a splash screen and crashed
+grant permissons, reopen the app
+same as 3.",https://github.com/CoelacanthusHex/breezy-weather/commit/e4ce10d04e64b1934ef5d85f3858c133d5221275,
+10,https://github.com/IacobIonut01/Gallery,https://github.com/IacobIonut01/Gallery/issues/596,"Go to album screen
+Select album that only have 1 item
+Open the pic
+Delete pic
+App crash",https://github.com/IacobIonut01/Gallery/commit/5160054a4431073eebe8d76e69fae0f50e900c67,
+11,https://github.com/status-im/status-mobile,https://github.com/status-im/status-mobile/issues/21085,"Connect to a dapp (or test dapp) on whichever network
+Make sure you have eth
+Trigger eth_sendTransaction
+Crash",https://github.com/status-im/status-mobile/pull/21086/files,
+12,https://github.com/status-im/status-mobile,https://github.com/status-im/status-mobile/issues/20850,"Go to send a flow of any collectible
+Confirm collectible sending
+Actual result:",https://github.com/status-im/status-go/pull/5619/files,
+13,https://github.com/ghostbyte-dev/pixelix,https://github.com/ghostbyte-dev/pixelix/issues/98,"I can connect to my instance (pxlmo.com) and view, comment, and like others' pics. But whenever I try to post, the app crashes as soon as I choose a photo or video, regardless of file size.
+
+This is my first day downloading the app. I've tried clearing cache, turning off ""in app browser"" setting, and restarting my phone, but issue persists.
+
+Galaxy s10e, android 12. Pixelix 3.2.0 (Play) and same problem on 3.1.0 (F-droid)",https://github.com/ghostbyte-dev/pixelix/pull/131,
+14,https://github.com/meshtastic/Meshtastic-Android,https://github.com/meshtastic/Meshtastic-Android/issues/1787,"I have recently been working on a bot for my private MQTT broker that pretends to be an actual device on the network. While experimenting with this, I noticed that sending a NodeInfo packet with a HardwareModel that was added in version 2.6 of the protobufs will cause the Android app to crash when trying to view ""More Details"" on that node.
+
+I originally tested this by broadcasting the April Fools RESERVED_FRIED_CHICKEN hardware model (because I was curious what would happen), but the crash also happens with hardware models added after MESH_TAB.
+
+While it's perfectly understandable that it wouldn't know what to do with a bucket of fried chicken, the app really shouldn't crash if you happen to come across a recently released device in the wild and try to view more info on it.",https://github.com/jamesarich/Meshtastic-Android/commit/b1017e4396115aa3f2598eec324e41affc45823e,
+15,https://github.com/mastodon/mastodon-android,https://github.com/mastodon/mastodon-android/issues/766,"My Mastodon app is crashing everytime I do:
+
+Change post language (En -> Pt).
+Write something.
+Try change post language again.",https://github.com/mastodon/mastodon-android/pull/769/files,
+16,https://github.com/slapperwan/gh4a,https://github.com/slapperwan/gh4a/issues/1312,"Go to the Libchecker-Rules Repo
+Go to Files Section
+Select ""Search Code""
+Enter the search query sqlite
+The search activity crashes, the app returns to the previous activity",https://github.com/slapperwan/gh4a/pull/1346,
+17,https://github.com/godotengine/godot,https://github.com/godotengine/godot/issues/96770,"Open the game
+Leave the game run in background and go to device system settings
+Change device display language
+Re-enter the game (the game will hang for a few seconds then exit)",https://github.com/godotengine/godot/pull/103419,
+18,https://github.com/thunderbird/thunderbird-android,https://github.com/thunderbird/thunderbird-android/issues/7640,"Open an e-mail
+Try to reply by clicking on the reply button
+Crash",https://github.com/thunderbird/thunderbird-android/pull/7642,
+19,https://github.com/thunderbird/thunderbird-android,https://github.com/thunderbird/thunderbird-android/issues/6621,"Open a message that doesn't contain any recipients, e.g. To: undisclosed-recipients:;",https://github.com/thunderbird/thunderbird-android/pull/6623,
+20,https://github.com/thunderbird/thunderbird-android,https://github.com/thunderbird/thunderbird-android/issues/6609,"Set up an IMAP account with Push enabled
+Drag a message list item to the side and keep holding it
+Delete that message using another client and wait until the change is synced to K-9 Mail",https://github.com/thunderbird/thunderbird-android/pull/6610,
+21,https://github.com/thunderbird/thunderbird-android,https://github.com/thunderbird/thunderbird-android/issues/6558,"Update app
+After some time I'll get constant notification of K-9 mail keeps stopping.",https://github.com/thunderbird/thunderbird-android/pull/6574,
+22,https://github.com/thunderbird/thunderbird-android,https://github.com/thunderbird/thunderbird-android/issues/7622,"Select compose icon to compose a new email
+Begin typing in the recipient field.
+Crash
+or
+
+Select an email.
+Select the reply icon
+Crash",https://github.com/thunderbird/thunderbird-android/pull/7625,
+23,https://github.com/thunderbird/thunderbird-android,https://github.com/thunderbird/thunderbird-android/issues/6621,"Open a message that doesn't contain any recipients, e.g. To: undisclosed-recipients:;",https://github.com/thunderbird/thunderbird-android/pull/6623,
+24,https://github.com/chvp/NanoLedger,https://github.com/chvp/NanoLedger/issues/68,"Add transaction, fill all fields (2 accounts), save",https://github.com/chvp/NanoLedger/pull/70/files,
+25,https://github.com/octoshrimpy/quik,https://github.com/octoshrimpy/quik/issues/131,"Open navigation drawer
+Click on 'Blocking'
+Click on 'Blocked numbers'
+Click on '+'
+Enter phone number
+Click on 'BLOCK'",https://github.com/octoshrimpy/quik/pull/233,
+26,https://github.com/element-hq/element-android,https://github.com/element-hq/element-android/issues/8409,"Go to settings / security / protect access
+
+The app crashes.",https://github.com/element-hq/element-android/pull/8410,
+27,https://github.com/barbeau/gpstest,https://github.com/barbeau/gpstest/issues/624,"Enable logging in Settings (e.g., NMEA)
+Wait for 10 seconds, then tap ""Share"" in Action Bar, then ""Log"" tab, then tap share icon",https://github.com/firebovine/gpstest/commit/613a2648e500fc635e30980c5110940ebe457102,
+28,https://github.com/kylecorry31/Trail-Sense,https://github.com/kylecorry31/Trail-Sense/issues/2150,"If you have battery optimization enabled and Trail Sense is completely closed, trying to start any of the services from the quick tiles fails due to Android's background restrictions.
+
+Maybe clicking the tile needs to open Trail Sense to enable it? That doesn't sound like a great solution though - there must be another option (I'm very surprised this isn't one of the allowed foreground service entry points - I may open a bug with Android on that).
+
+Or it can use the can't start background services notification when the foreground service fails to post (same as the background location restriction on Android 14).
+
+This may also be a problem only on Android 14 - need to do more investigation.",https://github.com/kylecorry31/Trail-Sense/commit/7fdba51791232a8a2331a05ecf98bcf8c70fc3e1,
+29,https://github.com/polymorphicshade/Tubular,https://github.com/polymorphicshade/Tubular/issues/14,"Play some of videos
+Random crashes occurs, related to SponsorBlock",https://github.com/polymorphicshade/Tubular/commit/b2a5c05df5a20b455d07503413e36ad748111305,
+30,https://github.com/polymorphicshade/Tubular,https://github.com/polymorphicshade/Tubular/issues/3,"1.Select start and end moment for the sponsored content
+2.Submit it
+3.Got the bug",https://github.com/polymorphicshade/Tubular/commit/4268b1e13b95d90c0268cc8add5c311fa4d8145d,
+31,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/11468,"Search for any keyword. Make sure you get videos and at least one channel as results
+Request a download for a video
+Before the prompt with video quality shows up, tap on a channel. The time interval for this on my device is around 2-3 secs",https://github.com/TeamNewPipe/NewPipe/pull/11621/files,
+32,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/11369,"Go to Peertube Instance
+Search channel
+Click on channel",https://github.com/TeamNewPipe/NewPipeExtractor/commit/ff12ee3b03952d04655ec85e2f11d916f75134d6,
+33,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/11029,"Begin playing a video
+Switch from WiFi to 5G or vice versa. Wait a moment",https://github.com/TeamNewPipe/NewPipe/pull/11261/files,
+34,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/10926,"Open the video https://www.youtube.com/watch?v=erLbbextvlY
+Click on the play button",https://github.com/TeamNewPipe/NewPipe/pull/10909/files,
+35,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/10142,"Install nightly 52
+subscribe to a channel
+Switch to the what's new tab and pull down to refresh.",https://github.com/TeamNewPipe/NewPipe/pull/10229,
+36,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/9448,"Start playing video
+Before video loads back out and close the small player by either taping the x or swiping down",https://github.com/TeamNewPipe/NewPipe/pull/10578,
+37,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/8634,try playing https://radicaldreamland.bandcamp.com//track/hackmud-continuous-mix,https://github.com/TeamNewPipe/NewPipeExtractor/pull/1033/files,
+38,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/6976,"Go to search icon , trending menu,what's new, history menu,
+Press on any video and don't wait thumbnails of videos
+The crash appears",https://github.com/TeamNewPipe/NewPipe/pull/7056/files,
+39,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/5596,"Create 2+ channel groups
+Press on the reorder icon right of the ""Channel groups"" text
+Attempt to move any group",https://github.com/TeamNewPipe/NewPipe/pull/5718/files,
+40,https://github.com/TeamNewPipe/NewPipe,https://github.com/TeamNewPipe/NewPipe/issues/5055,"Re-install NewPipe or Clear Data from android settings
+Go to Settings -> Content -> Import database
+Select any random zip file (Not NewPipe exported database)
+Agree when asked to override your current setup.",https://github.com/TeamNewPipe/NewPipe/pull/5057/files,
+41,https://github.com/siper/Youamp,https://github.com/siper/Youamp/issues/328,"I freshly installed the app.
+Connected to my Nextcloud instance without problems
+Selected an abitrary song.
+Hit play.
+App vanishes.
+Sometimes a crash dialog appears (crashlog).
+Sometimes in addition to the crash dialog the music starts playing.
+Once I dismiss the crash dialog playback stops.",https://github.com/siper/Youamp/pull/321,
+42,https://github.com/OxygenCobalt/Auxio,https://github.com/OxygenCobalt/Auxio/issues/464,"Add one or more songs to the queue.
+Play the last song in the queue.
+In the queue, swipe to delete the last item.
+The app crashes / force closes.",https://github.com/royt93/4_Auxio/commit/e39d4d879c97e870451949b61146b75198fa6532,
+43,https://github.com/jellyfin/jellyfin-androidtv,https://github.com/jellyfin/jellyfin-androidtv/issues/4254,"when play a media with ass ,and multi-audio
+select with ass and play the media by transcoding, the media play normally
+but during playing the media and switch to another audio , the app crashed .",https://github.com/jellyfin/jellyfin-androidtv/pull/4270/files,
+44,https://github.com/WirelessAlien/MovieDB,https://github.com/WirelessAlien/MovieDB/issues/75,"Go to any item you already rated with a half point in the past
+Click on ""rate""
+The app crashes",https://github.com/WirelessAlien/MovieDB/commit/8007dc771cf8e2256957a4fa84522ec4d55e569f,
+45,https://github.com/lydavid/MusicSearch,https://github.com/lydavid/MusicSearch/issues/1127,"load all collections
+delete one of them in MusicBrainz
+click into that collection in the app",https://github.com/lydavid/MusicSearch/commit/8af1402dc1ecfae9a88e7e5a6d28740b812603f3,
+46,https://github.com/horizontalsystems/unstoppable-wallet-android,https://github.com/horizontalsystems/unstoppable-wallet-android/issues/7981,"Open the wallet and navigate to USDT TRC20.
+Tap on Send.
+The app crashes.",https://github.com/horizontalsystems/unstoppable-wallet-android/pull/7984/files,
+47,https://github.com/horizontalsystems/unstoppable-wallet-android,https://github.com/horizontalsystems/unstoppable-wallet-android/issues/7259,"Enable BNB with account position
+On the transactions tab scroll to ""6 March""
+App crashes with the following exception",https://github.com/horizontalsystems/ethereum-kit-android/pull/309/files,
+48,https://github.com/horizontalsystems/unstoppable-wallet-android,https://github.com/horizontalsystems/unstoppable-wallet-android/issues/7099,"copy APeKGMz9sJ8oLJcurpo2SxLgJPQVRMgmdCHvxe5XE6Xd
+Open UW and get to import custom token section
+paste the copied text
+select Tron blockchain
+UW crashes
+It crashes when selecting Tron
+Others are fine
+Fix it.
+Even if you first select Tron Blockchain and then paste the above mentioned text, UW crashes",https://github.com/horizontalsystems/unstoppable-wallet-android/pull/7104/files,
+49,https://github.com/horizontalsystems/unstoppable-wallet-android,https://github.com/horizontalsystems/unstoppable-wallet-android/issues/7095,"Don't copy anything (no address)
+go to UW and click on BTC
+click on Send
+hit the paste button
+UW crashes
+Fix the crash bug when no address is copied you click the paste button while sending.",https://github.com/horizontalsystems/unstoppable-wallet-android/pull/6999,
+50,https://github.com/moneymanagerex/android-money-manager-ex,https://github.com/moneymanagerex/android-money-manager-ex/issues/2492,"Goto Budgets
+Select entry 2025-04
+Try to scroll down to reach the bottom of the page",https://github.com/moneymanagerex/android-money-manager-ex/pull/2495,
+51,https://github.com/drawpile/Drawpile,https://github.com/drawpile/Drawpile/issues/1108,"Open android version
+Select any brush preset",https://github.com/drawpile/Drawpile/commit/aafabc2478112993d80b37d0850ba937772b5c13,
+52,https://github.com/nextcloud/android,https://github.com/nextcloud/android/issues/12343,"Open App
+View a photo",https://github.com/nextcloud/android/pull/13084,
+53,https://github.com/patzly/grocy-android,https://github.com/patzly/grocy-android/issues/688,Grocy crashes when consuming products.,https://github.com/patzly/grocy-android/commit/4ced804de483d36d255e6feb18491c5fea6f5ad1,
+54,https://github.com/dessalines/habit-maker,https://github.com/dessalines/habit-maker/issues/55,"Open the edit screen of any habit
+Enter encouragement text
+Switch away from the app",https://github.com/dessalines/habit-maker/pull/56,
+55,https://github.com/OpenTracksApp/OpenTracks,https://github.com/OpenTracksApp/OpenTracks/issues/1850,"Stop any non-GPS workout on tracker
+See error",https://github.com/OpenTracksApp/OpenTracks/pull/1851,
+56,https://github.com/beemdevelopment/Aegis,https://github.com/beemdevelopment/Aegis/issues/1434,"Have audit log events older than 7 days (this causes Aegis to use the date_format string)
+Set display language to ""Dutch"" for example
+Open audit log
+Scroll",https://github.com/beemdevelopment/Aegis/pull/1435,
+57,https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica,https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica/issues/454,"The app crashing when trying to open a conversation with multiple replies, e.g. https://puntarella.party/@coso_come_se_chiama/113398179810216428
+
+This happens only on Mastodon instances, though, on Friendica all is fine.",https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica/pull/456,
+58,https://github.com/AndBible/and-bible,https://github.com/AndBible/and-bible/issues/2965,Crashes when selecting a workspace named "Study 2". Other workspaces seem ok. Two tickets raised in the help system. Let me know if you need my database.,https://github.com/meichthys/and-bible/commit/6636ec8c313ffe1e8d642637d3dac6314a4455fb,
+59,https://github.com/AndBible/and-bible,https://github.com/AndBible/and-bible/issues/2815,"1 opened the app.
+2 highlighted a word
+3 looked up a dictionary
+4 crashed",https://github.com/AndBible/and-bible/commit/eeaba06651de58892b957e21c305f64deb8fa178,
+60,https://github.com/PhilKes/NotallyX,https://github.com/PhilKes/NotallyX/issues/434,"Paste
+
+1
+2
+
+Inside a list, it'll crash",https://github.com/PhilKes/NotallyX/pull/435,
+61,https://github.com/PhilKes/NotallyX,https://github.com/PhilKes/NotallyX/issues/428,"Select a note
+Quickly press delete icon multiple time
+It'll crash",https://github.com/PhilKes/NotallyX/pull/430,
+62,https://github.com/PhilKes/NotallyX,https://github.com/PhilKes/NotallyX/issues/403,"Create one or more empty item in list and check one, it'll crash",https://github.com/PhilKes/NotallyX/commit/e8ff4d7e4401ca1b9b23db958ea028c673256e5a,
+63,https://github.com/PhilKes/NotallyX,https://github.com/PhilKes/NotallyX/issues/391,"Create at least two subtasks, check one of them, and move the other unchecked task away from the group : the parent task will not be checked while it should
+
+Instead of moving the unchecked task, tap the delete icon, the app will crash (see attached log)",https://github.com/PhilKes/NotallyX/commit/7e2c337b2679bc3b66aa09b77d0cef248e6f6e4d,
+64,https://github.com/Droid-ify/client,https://github.com/Droid-ify/client/issues/920,"Steps to reproduce the behavior:
+
+Open Droidify
+Click on any app listed
+click on any images to enlarge it
+Rotate your phone",https://github.com/Droid-ify/client/pull/930,
+65,https://github.com/Droid-ify/client,https://github.com/Droid-ify/client/issues/667,My phone has little free internal memory. I tap to download 4-5 big apps and put down the phone for a while. Then I tap the notification to install. But Droid-ify crashes.,https://github.com/AmirulAndalib/Droid-ify/commit/bbdd64434101208a59bcb1404b155719609cf0ef,
+66,https://github.com/florisboard/florisboard,https://github.com/florisboard/florisboard/issues/2490,"In any text box, type text, select it and copy it
+Verify that the text can get pasted directly
+Open FlorisBoard settings
+Go to the dev-tools and make the app crash
+Try again to directly paste the text you copied in step one into any text box. It'll fail.",https://github.com/florisboard/florisboard/commit/daf0bbd7dc49f4c881cc2e6912b078e970c7e044,
+67,https://github.com/florisboard/florisboard,https://github.com/florisboard/florisboard/issues/2378,"Go to FlorisBoard settings>Devtools
+Click on ""Test crash report screen""
+See error",https://github.com/florisboard/florisboard/pull/2388/files,
+68,https://github.com/clementwzk/OpenCalc,https://github.com/clementwzk/OpenCalc/issues/143,"Steps to reproduce the behavior:
+Enter 'ln0' or 'log0'",https://github.com/clementwzk/OpenCalc/commit/9be97c4e2a27787ec02b47d18ae8946394c3832c,
+69,https://github.com/d4rken-org/sdmaid-se,https://github.com/d4rken-org/sdmaid-se/issues/326,"Tap the tool name or the eye icon, regardless.
+Wait for the task to complete
+Tap any of the devices, regardless
+Message about repeated crash appears",https://github.com/d4rken-org/sdmaid-se/pull/333,
+70,https://github.com/jrpie/launcher,https://github.com/jrpie/launcher/issues/116,"1. Open launcher
+2. Set as default launcher
+
+3. Either use your phone, restart, or force stop the app. Any action that kills the app will do.
+
+4. Try to press home (Either phone hangs or the selection dialog for which launcher to use appears as if none is set)
+
+
+To stop the crash, simply removing the app as the default launcher works..but that seems stupid",https://github.com/toolatebot/Launcher/commit/3664159782d98052070e3d6fe0d987649c8ab228,

@@ -1,0 +1,14 @@
+fastapi==0.115.12
+openai==1.76.0
+opencv_python==4.11.0.86
+Pillow==11.2.1
+pydantic==2.11.3
+Requests==2.32.3
+sse_starlette==2.3.3
+tqdm==4.66.4
+uiautomator2==2.16.25
+uvicorn==0.34.2
+androguard==3.4.0a1
+networkx==3.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
