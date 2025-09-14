@@ -15,6 +15,20 @@ TraceDroid is an automated GUI testing approach that leverages suspicious code t
 - **Execution-Aware Monitoring**: Real-time crash detection and path validation
 - **High Bug Detection Recall**: Achieves 77% recall, outperforming 15 state-of-the-art baselines
 
+## Examples
+
+These are examples from testing applications using our method, TraceDroid.
+
+<div align="center">
+  <img src="assets/example_1.gif" width="200" height="400" style="display: inline-block; margin-right: 10px" />
+  <img src="assets/example_2.gif" width="200" height="400" style="display: inline-block; margin-right: 10px" />
+  <img src="assets/example_3.gif" width="200" height="400" style="display: inline-block" />
+  <br>
+  <img src="assets/example_4.gif" width="200" height="400" style="display: inline-block; margin-right: 10px; margin-top: 10px" />
+  <img src="assets/example_5.gif" width="200" height="400" style="display: inline-block; margin-right: 10px; margin-top: 10px" />
+  <img src="assets/example_6.gif" width="200" height="400" style="display: inline-block; margin-top: 10px" />
+</div>
+
 
 ## Code
 
