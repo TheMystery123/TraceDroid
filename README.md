@@ -407,6 +407,10 @@ Below is the complete dataset of detected bugs (reproduced from Table 3 in the s
 
 *Notes: \* indicates the baseline detected the bug; empty cells mean the bug was not detected. Baselines are abbreviated as follows: TimeM (Time-Machine), Comb (ComboDroid), Huma (Humanoid), Guard (Guardian), BugH (BugHunter).*  
 
+Here are some examples of developers' reply:
+
+![example reply](./assets/example_reply.jpg)
+
 
 #### Data Fields Explanation
 
